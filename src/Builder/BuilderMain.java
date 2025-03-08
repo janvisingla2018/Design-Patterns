@@ -1,3 +1,4 @@
+//Used when optional parameters exists
 public class BuilderMain {
     public static void main(String[] args) {
         Car car = new CarBuilder()
