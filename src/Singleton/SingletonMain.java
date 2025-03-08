@@ -1,4 +1,4 @@
-public class main {
+public class SingletonMain {
    public static void main(String[] args) {
        EagerInitialization eagerInitialization = EagerInitialization.getInstance();
        System.out.println(eagerInitialization);
